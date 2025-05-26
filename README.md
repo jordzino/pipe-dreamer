@@ -17,7 +17,7 @@ Click on links to navigate the story and make choices.
 Modifier (Retro Console): The game uses a limited color palette, and fantasy-console-style UI like the 'leak pressure meter'.
 
 How to Play:
-1. Open the`PipeDreamer.html` file in a web browser of your choice. Google Chrome is recommended.
+1. Open the `index.html` file in a web browser of your choice. Google Chrome is recommended.
 2. Play through the story, and try different choices for alternate endings.
 
 If I had more time:
