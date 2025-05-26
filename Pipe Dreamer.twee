@@ -1,0 +1,175 @@
+:: StoryTitle
+Pipe Dreamer
+
+
+:: StoryData
+{
+  "ifid": "381AE9F6-D16C-4351-894A-827BD3D89474",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "RESTART",
+  "zoom": 1
+}
+
+
+:: END {"position":"700,1100","size":"100,100"}
+[[RESTART]]
+
+
+:: Follow the dripping sound {"position":"450,450","size":"100,100"}
+<div style="font-family:'Press Start 2P', monospace; font-size:10px; color:#ff4444; text-align:center;">[LEAK PRESSURE: ▓▓░░░░]</div>
+
+An altar of ancient PVC sits before Daniel.  
+A singular leak bursts rhythmically, like a heartbeat.  
+
+Two tools lie on the stone beside it:  
+- A **Divine Wrench**, inscribed with runes.  
+- A roll of **Chewing Gum**, still half-wrapped.
+
+Choose quickly.
+
+[[Use the Divine Wrench]]
+[[Patch it with Gum]]
+
+
+
+
+
+
+:: Ignore it and check your toolbelt {"position":"850,450","size":"100,100"}
+<div style="font-family:'Press Start 2P', monospace; font-size:10px; color:#ff4444; text-align:center;">[LEAK PRESSURE: ▓▓▓░░░]</div>
+
+Daniel spins through endless tunnels.  
+A mushroom offers him tea.  
+A talking faucet whispers in pipe-code:  
+`"LEFT, LEFT, RIGHT, UP, SPIN."`
+
+He nods like it makes sense.
+
+Maybe a quick [[sip]] wouldn't hurt...
+
+[[Navigate using the code]]  
+[[Scream into the plumbing void]]
+
+
+
+:: Navigate using the code {"position":"1000,600","size":"100,100"}
+<div style="font-family:'Press Start 2P', monospace; font-size:10px; color:#ff4444; text-align:center;">[LEAK PRESSURE: ▓▓▓▓▓▓]</div>
+
+The water is rising.
+
+Daniel stands on a grated platform above a galaxy of sewer stars.  
+The pipes below twist in unnatural formations.
+
+A glowing valve pulses with energy.  
+A voice (maybe his own?) says:  
+**“Only one flow survives.”**
+
+[[Turn the valve clockwise]]  
+[[Turn the valve counterclockwise]]
+
+
+:: Patch it with Gum {"position":"250,650","size":"100,100"}
+<div style="font-family:'Press Start 2P', monospace; font-size:10px; color:#ff4444; text-align:center;">[LEAK PRESSURE: ▓▓▓▓▓▓]</div>
+
+The water is rising.
+
+Daniel stands on a grated platform above a galaxy of sewer stars.  
+The pipes below twist in unnatural formations.
+
+A glowing valve pulses with energy.  
+A voice (maybe his own?) says:  
+**“Only one flow survives.”**
+
+[[Turn the valve clockwise]]  
+[[Turn the valve counterclockwise]]
+
+
+
+:: RESTART {"position":"700,275","size":"100,100"}
+<div style="font-family:'Press Start 2P', monospace; font-size:10px; color:#ff4444; text-align:center;">[LEAK PRESSURE: ▓░░░░░]</div>
+
+Daniel was just trying to fix a leaky kitchen tap.  
+Now he's surrounded by endless sky and floating chrome plumbing.
+
+The wrench in his hand is glowing. The ground pulses like it's breathing.  
+And the pipes - they stretch into the sky like chrome spaghetti.
+
+[[Follow the dripping sound]]  
+[[Ignore it and check your toolbelt]]
+
+
+
+:: Scream into the plumbing void {"position":"1200,600","size":"100,100"}
+<div style="font-family:'Press Start 2P', monospace; font-size:10px; color:#ff4444; text-align:center;">[LEAK PRESSURE: ▓▓▓▓▓▓]</div>
+
+The water is rising.
+
+Daniel stands on a grated platform above a galaxy of sewer stars.  
+The pipes below twist in unnatural formations.
+
+A glowing valve pulses with energy.  
+A voice (maybe his own?) says:  
+**“Only one flow survives.”**
+
+[[Turn the valve clockwise]]  
+[[Turn the valve counterclockwise]]
+
+
+:: Turn the valve clockwise {"position":"500,900","size":"100,100"}
+<div style="font-family:'Press Start 2P', monospace; font-size:10px; color:#ff4444; text-align:center;">[LEAK PRESSURE: ▓▓░░░░]</div>
+
+Daniel jolts awake on the floor of his client’s bathroom.
+
+The tap is still leaking.
+
+But he swears he can still hear the pipes breathing.
+
+''The dream may be over - but the flow never ends.''  
+[[END]]
+
+
+
+:: Turn the valve counterclockwise {"position":"900,900","size":"100,100"}
+<div style="font-family:'Press Start 2P', monospace; font-size:10px; color:#ff4444; text-align:center;">[LEAK PRESSURE: OVERFLOW!!]</div>
+
+Daniel melts into chrome light.
+
+He becomes one with the Flow Eternal.
+
+Plumbing is no longer a job.  
+It is **the calling**.
+
+''You are now... the Pipe Dreamer.''  
+[[END]]
+
+
+
+
+:: Use the Divine Wrench {"position":"550,650","size":"100,100"}
+<div style="font-family:'Press Start 2P', monospace; font-size:10px; color:#ff4444; text-align:center;">[LEAK PRESSURE: ▓▓▓▓▓▓]</div>
+
+The water is rising.
+
+Daniel stands on a grated platform above a galaxy of sewer stars.  
+The pipes below twist in unnatural formations.
+
+A glowing valve pulses with energy.  
+A voice (maybe his own?) says:  
+**“Only one flow survives.”**
+
+[[Turn the valve clockwise]]  
+[[Turn the valve counterclockwise]]
+
+
+
+
+:: sip {"position":"800,600","size":"100,100"}
+<div style="font-family:'Press Start 2P', monospace; font-size:10px; color:#ff4444; text-align:center;">[LEAK PRESSURE: ???]</div>
+
+You have found the Sacred Toilet Oracle.  
+It speaks only in plunges and prophecies.
+
+''“Flush well... for your destiny bubbles below.”''
+
+[[Turn the valve counterclockwise]]
